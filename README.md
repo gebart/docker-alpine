@@ -1,5 +1,7 @@
 update 2/24/2016
 
+This version is for ARM processors. To build on an x86 machine, enable binfmt-misc support and use the interpreter /usr/bin/qemu-arm-cortex-a8
+
 docker-alpine
 ================
 
